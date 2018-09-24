@@ -1,3 +1,4 @@
+<p align="center">
 <b>Proyecto final</b><br>
 
 

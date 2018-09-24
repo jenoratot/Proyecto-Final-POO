@@ -5,4 +5,5 @@ en manos equivocadas podria desatar una guerra nuclear, entonces dos agentes son
 nuclear.
 
 **Operacion hacker**
-<img src="Proyecto-Final-POO/Imagenes y graficos/Juego POO.png" />     
+<img src="https://github.com/jenoratot/Proyecto-Final-POO/blob/master/Imagenes%20y%20graficos/Juego%20POO.png" />     
+      
